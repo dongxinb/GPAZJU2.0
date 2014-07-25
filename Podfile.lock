@@ -1,0 +1,48 @@
+PODS:
+  - Appirater (2.0.2)
+  - ASIHTTPRequest (1.8.2):
+    - ASIHTTPRequest/ASIWebPageRequest
+    - ASIHTTPRequest/CloudFiles
+    - ASIHTTPRequest/Core
+    - ASIHTTPRequest/S3
+  - ASIHTTPRequest/ASIWebPageRequest (1.8.2):
+    - ASIHTTPRequest/Core
+  - ASIHTTPRequest/CloudFiles (1.8.2):
+    - ASIHTTPRequest/Core
+  - ASIHTTPRequest/Core (1.8.2):
+    - Reachability
+  - ASIHTTPRequest/S3 (1.8.2):
+    - ASIHTTPRequest/Core
+  - AVOSCloud (2.5.8.1)
+  - hpple (0.2.0)
+  - ICViewPager (1.5)
+  - JDStatusBarNotification (1.4.7)
+  - LiveFrost (1.1.2)
+  - Reachability (3.1.1)
+  - RNBlurModalView (0.1.0)
+  - SSKeychain (1.2.2)
+
+DEPENDENCIES:
+  - Appirater
+  - ASIHTTPRequest
+  - AVOSCloud
+  - hpple
+  - ICViewPager
+  - JDStatusBarNotification (= 1.4.7)
+  - LiveFrost
+  - RNBlurModalView
+  - SSKeychain
+
+SPEC CHECKSUMS:
+  Appirater: a5e00fb01d47a9a6acf4b2f22323b4ccf4f23fbb
+  ASIHTTPRequest: 2c8335b49410c0e2ad42829c438e74d454b77590
+  AVOSCloud: 23a54f17ed9886972b5ca35532fb1e5d7212f931
+  hpple: f4eb7c21a8db83ec264e5d614ec7509e10e5adec
+  ICViewPager: 92bcec206b5eaf9623bb0b3f9e5bbfe5d2816def
+  JDStatusBarNotification: ac0b8550e761a0ab01696a6592564ff17698ca43
+  LiveFrost: 8c7e447e6833902ddc2a639faa27e71e091b5062
+  Reachability: 8e9635e3cb4f98e7f825e51147f677ecc694d0e7
+  RNBlurModalView: 38380c10dcaf7804f7ba5e3516abcaf8bc8eddb3
+  SSKeychain: cc48bd3ad24fcd9125adb9e0d23dd50b8bbd08b9
+
+COCOAPODS: 0.32.1
